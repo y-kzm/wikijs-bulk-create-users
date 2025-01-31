@@ -1,0 +1,2 @@
+name,email,password,groups,must_change_password,send_welcome_email
+John Doe,john.doe@example.com,password123,"[3, 4]",yes,no
